@@ -1,7 +1,0 @@
-{
-  "name": "MyIonicProject",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
